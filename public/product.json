@@ -1,0 +1,134 @@
+[
+  {
+    "id": "000001",
+    "category": "Simple",
+    "name": "Riha saffron Lehenga",
+    "seller": "Maca luise",
+    "price": 400000,
+    "stock": 6,
+    "img": "https://i.pinimg.com/736x/d1/90/cc/d190cc8b0557cfe7d3fe6fa7ed5f2eb6.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "00000002",
+    "category": "Wedding lehenga",
+    "name": "South Asia Wedding Lehenga",
+    "seller": "Ritha agarwal",
+    "price": 600000,
+    "stock": 6,
+    "img": "https://i.ebayimg.com/images/g/AXEAAOSwGRlilcBp/s-l1200.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "00000003",
+    "category": "Pink style",
+    "name": "Rani Pink Lehenga",
+    "seller": "Kk stev",
+    "price": 100000,
+    "stock": 6,
+    "img": "https://www.kollybollyethnics.com/image/catalog/data/20Nov2022/Silk-bridal-lehenga-choli-in-Magenta-colour-1008.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "0000000004",
+    "category": "RED Saree",
+    "name": "Weeding Saree",
+    "seller": "tina dev",
+    "price": 15000,
+    "stock": 6,
+    "img": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/23991702/2023/7/12/7e47ade7-459a-4150-a787-8049fca91d231689183627208KALINIRedGold-TonedWovenDesignZariSilkBlendBanarasiSaree1.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "0000000005",
+    "category": "Weeding Saree",
+    "name": "Pinky saree for wedding",
+    "seller": "luto juiss",
+    "price": 500000,
+    "stock": 6,
+    "img": "https://festivalsuits.com/wp-content/uploads/2024/03/Elegant-Pink-Color-Georgette-Rainbow-Sequence-Work-Saree-1-1.jpeg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "0000000006",
+    "category": "Patto saree",
+    "name": "BIDAL pATTOOO sAREEE",
+    "seller": "Saouthis",
+    "price": 450000,
+    "stock": 6,
+    "img": "https://m.media-amazon.com/images/I/81-Mk+jeEeL._AC_UY1100_.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "000000007",
+    "category": "White nstone",
+    "name": "White stone bridal jewellery set",
+    "seller": "Msnik clone",
+    "price": 10000,
+    "stock": 6,
+    "img": "https://i.pinimg.com/736x/a9/04/6b/a9046b16485e5f1fc6cfebf5e2f8b0f1.jpg",
+    "shipping": 21,
+    "quantity": 0
+  },
+  {
+    "id": "00000000008",
+    "category": "ceistall set",
+    "name": "Jewellery set of Cristall",
+    "seller": "jk jopks",
+    "price": 90000,
+    "stock": 6,
+    "img": "https://media.weddingz.in/images/31a29f952984e7c7f26380d2c3945e23/Oxozv2akMD40U-KkT7GtyS4CjyaN5JAP1RxkKJQNvafciBqGuzmGfVcBCClOeQlbpniWqyp6lnrWLlEAKZNKDQ0xgKBq3-PQyYmq1_M2VLRrQ9wMwaWfv6CagPeErS7sloXWe5Lt.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "000000009",
+    "category": "Gold set",
+    "name": "Gold jewellery set for brides",
+    "seller": "Indias tec",
+    "price": 78000,
+    "stock": 9,
+    "img": "https://i.pinimg.com/736x/d3/83/98/d38398b1affaeba80cf9f3e0b55fcdf2.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "00000010",
+    "category": "Bangless",
+    "name": "REd Bangless",
+    "seller": "poton plant",
+    "price": 3000,
+    "stock": 6,
+    "img": "https://i.pinimg.com/736x/ed/23/de/ed23de46d12704e39099f00f036edc9d.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": "0000011",
+    "category": "diamond cut",
+    "name": "Diamond cut Bangless",
+    "seller": "wets stock",
+    "price": 600000,
+    "stock": 6,
+    "img": "https://rukminim2.flixcart.com/image/850/1000/jnm2efk0/bangle-bracelet-armlet/r/y/n/2-8-2-bang-19-anahat-collection-original-imaf59fqh4crdfm9.jpeg?q=20&crop=false",
+    "shipping": 5,
+    "quantity": 0
+  },
+  {
+    "id": "00000012",
+    "category": "plated",
+    "name": "Silver plated bracelet",
+    "seller": "kkk makun",
+    "price": 20000,
+    "stock": 6,
+    "img": "",
+    "shipping": 1,
+    "quantity": 0
+  }
+]
